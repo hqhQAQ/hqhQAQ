@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am Qihan Huang, a fourth-year Ph.D student in College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/). Prior to this, I earned a Bachelor's degree in Software Engineering from [Zhejiang University](https://www.zju.edu.cn/english/). During 2024 to 2025, I had a research internship at Alibaba Group, focusing on multimodal large language models and image generation.
+I am Qihan Huang, a fourth-year Ph.D student in College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/). Prior to this, I earned a Bachelor's degree in Software Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) in 2021. During 2024 to 2025, I had a long-term research internship at Alibaba Group, focusing on multimodal large language models and image generation.
 
 Currently, my research interest lies in reinforcement learning for LLMs.
 
