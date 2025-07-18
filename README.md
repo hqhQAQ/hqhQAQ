@@ -16,7 +16,7 @@ Currently, my research interest lies in reinforcement learning for LLMs.
 
 - ``AAAI 2025`` [Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation](https://arxiv.org/abs/2409.17920), **Qihan Huang**, Siming Fu, Jinlong Liu, et al.
 
-- ``CVPR 2025`` [PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generatio](https://arxiv.org/abs/2412.03177), **Qihan Huang**, Weilong Dai, Jinlong Liu, et al.
+- ``CVPR 2025`` [PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation](https://arxiv.org/abs/2412.03177), **Qihan Huang**, Weilong Dai, Jinlong Liu, et al.
 
 - ``ICLR 2025`` [MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance](https://arxiv.org/abs/2406.07209), Xierui Wang, Siming Fu, **Qihan Huang**, et al.
 
