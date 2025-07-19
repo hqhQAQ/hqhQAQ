@@ -4,15 +4,15 @@
 
 I am Qihan Huang, a fourth-year Ph.D student in College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/). Prior to this, I earned a Bachelor's degree in Software Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) in 2021. During 2024 to 2025, I had a long-term research internship at Alibaba Group, focusing on multimodal large language models and image generation.
 
-Currently, my research interest lies in reinforcement learning for LLMs.
+Currently, my research interest lies in reinforcement learning for MLLMs.
 
 ### Publications
 
-#### Reinforcement Learning for LLMs
+#### Reinforcement Learning for MLLMs
 
 - ``ICCV 2025`` [Boosting MLLM Reasoning with Text-Debiased Hint-GRPO](https://arxiv.org/abs/2503.23905), **Qihan Huang**, Weilong Dai, Jinlong Liu, et al.
 
-#### Personalized Image Generation
+#### Multimodal Generation
 
 - ``AAAI 2025`` [Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation](https://arxiv.org/abs/2409.17920), **Qihan Huang**, Siming Fu, Jinlong Liu, et al.
 
@@ -20,7 +20,7 @@ Currently, my research interest lies in reinforcement learning for LLMs.
 
 - ``ICLR 2025`` [MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance](https://arxiv.org/abs/2406.07209), Xierui Wang, Siming Fu, **Qihan Huang**, et al.
 
-#### Intrinsic Properties of Deep Neural Networks
+#### Multimodal Alignment
 
 - ``NeurIPS 2024`` [LG-CAV: Train Any Concept Activation Vector with Language Guidance](https://arxiv.org/abs/2410.10308), **Qihan Huang**, Jie Song, Mengqi Xue, et al.
 
